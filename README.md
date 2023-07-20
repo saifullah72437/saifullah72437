@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQGYE5y3lBtmmA/profile-displaybackgroundimage-shrink_350_1400/0/1682187052067?e=1695254400&v=beta&t=0zaekRx-Go5VLWOAC5kF75qTfuYTK9jqJHS0dypfPjQ)
 <h1 align="center">Hi 👋, I'm Saifullah khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer, Android[Java+Kotlin] and Flutter from Pakistan</h3>
 
 <p align="left"> <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" /> </p>
 
