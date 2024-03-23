@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifullah72437" alt="saifullah72437" /></a> </p>
 
-- 🌱 I’m currently learning **React, Android[Kotlin]**
+- 🌱 I’m currently learning **Backend [MERN]**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Saifullah+Saif](https://play.google.com/store/apps/developer?id=Saifullah+Saif)
 
-- 💬 Ask me about **React, Android, Flutter, Front End Web Development**
+- 💬 Ask me about **Full Stack Development [MERN] with Animation [GSAP, Locomotive, Barba JS], React, Android, Flutter**
 
 - 📫 How to reach me **saifullahkhan72437@gmail.com**
 
