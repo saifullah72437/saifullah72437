@@ -1,12 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQGYE5y3lBtmmA/profile-displaybackgroundimage-shrink_350_1400/0/1682187071015?e=1714003200&v=beta&t=hDCz5QDdsT3HAvGiQ4smwiiWvN9x4ia_zUlAfmsleyk)
 <h1 align="center">Hi 👋, I'm Saifullah khan</h1>
-<h3 align="center">A dedicated Fullstack Developer with a focus on the MERN stack. I'm deeply passionate about crafting seamless user experiences and interfaces. My toolbox includes GSAP, Locomotive, and Barba.js, which I leverage to create dynamic and engaging animations.
-
-📱 In addition to my frontend expertise, I excel in mobile app development, specializing in Flutter and proficient in Java and Kotlin for Android. I take pride in my ability to translate complex ideas into user-friendly mobile applications.
-
-💡 Beyond coding, I have a strong affinity for Data Structures and Algorithms (DSA). I enjoy the challenge of solving problems efficiently and am always eager to learn new techniques and technologies to stay at the forefront of the industry.
-
-🌟 Let's connect and explore how we can collaborate on exciting projects. I'm always looking for new challenges and opportunities to grow and innovate in the world of software development.</h3>
+<h3 align="center">I am a 🚀 Fullstack Developer [MERN Stack] | Frontend Aficionado 🎨 | Animation Maestro [GSAP, Locomotive, Barba.js] 🌟 | Flutter Enthusiast 📱 | Mobile App Developer [Java, Kotlin] 📱 | DSA Enthusiast & Problem Solver 💡</h3>
 
 <p align="left"> <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" /> </p>
 
