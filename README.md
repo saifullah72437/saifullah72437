@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQGYE5y3lBtmmA/profile-displaybackgroundimage-shrink_350_1400/0/1682187071015?e=1714003200&v=beta&t=hDCz5QDdsT3HAvGiQ4smwiiWvN9x4ia_zUlAfmsleyk)
+![logo](https://media.licdn.com/dms/image/D4D16AQHwV_Am1_cRzg/profile-displaybackgroundimage-shrink_350_1400/0/1711178810165?e=1716422400&v=beta&t=55xSTTN9VkUTZIuzgxcRQmHRSYaf4vDlrMQZpRJXxgU)
 <h1 align="center">Hi 👋, I'm Saifullah khan</h1>
 <h3 align="start">I am a 🚀 Fullstack Developer [MERN Stack] | Frontend Aficionado 🎨 | Animation Maestro [GSAP, Locomotive, Barba.js] 🌟 | Flutter Enthusiast 📱 | Mobile App Developer [Java, Kotlin] 📱 | DSA Enthusiast & Problem Solver 💡</h3>
 
